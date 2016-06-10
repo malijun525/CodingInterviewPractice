@@ -37,3 +37,9 @@ public class question1 {
 	}
 
 }
+
+/*
+ * Test:
+ * Old String: aabbcdggaahdkallcbd
+ * New String: abcdghkl
+ */
